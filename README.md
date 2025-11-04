@@ -185,15 +185,6 @@ WHATSAPP_TO=whatsapp:+34612345678
 Todas se instalan con: `pip install -r requirements.txt`
 
 ---
-
-## 📖 Guías Adicionales
-
-- **QUICKSTART.md** - Guía de inicio rápido en 10 minutos
-- **INSTALACION.md** - Guía paso a paso con solución de problemas
-- **ESTRUCTURA_PROYECTO.md** - Explicación detallada del código
-
----
-
 ## ❓ Problemas Comunes
 
 ### "No se encuentra el archivo Excel"
@@ -259,35 +250,6 @@ Este RPA enseña:
 - [x] requirements.txt
 - [x] .gitignore
 - [x] Commits organizados (listo para GitHub)
-
----
-
-## 🚀 Próximos Pasos
-
-### Para estudiantes:
-1. Ejecuta `python main.py`
-2. Revisa los gráficos en `output/`
-3. Lee el código con los comentarios
-4. Modifica algo y vuelve a ejecutar
-5. Sube tu proyecto a GitHub
-
-### Para extender el proyecto:
-- Añade más tipos de análisis
-- Crea nuevos gráficos
-- Integra con bases de datos
-- Programa ejecuciones automáticas
-- Añade envío por email
-
----
-
-## 📞 Soporte
-
-Si tienes problemas:
-1. Ejecuta `python test_connection.py`
-2. Revisa los logs en `logs/`
-3. Consulta INSTALACION.md
-4. Lee los comentarios en el código
-
 ---
 
 ## 📄 Licencia
